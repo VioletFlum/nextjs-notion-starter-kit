@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '沁美的博客t',
+  name: '沁美的博客',
   domain: 'qinmei.gq',
   author: 'Violet',
 
