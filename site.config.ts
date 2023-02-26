@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'nomorewhiskey1',
   github: 'VioletFlum',
-  linkedin: 'fisch2',
+  linkedin: '高沁美',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
