@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '沁美的博客',
-  domain: 'qinmei.gq',
+  domain: 'https://gaoqinmei.notion.site/166b5169774742028da9c121480dd69f',
   author: 'Violet',
 
   // open graph metadata (optional)
